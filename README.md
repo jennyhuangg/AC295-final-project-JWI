@@ -1,5 +1,7 @@
 Authors: Jenny Huang, Ian Hunt-Isaak, William Palmer
 
+Medium Article: https://medium.com/institute-for-applied-computational-science/how-we-built-an-easy-to-use-image-segmentation-tool-with-transfer-learning-546efb6ae98
+
 # Trying it out
 
 
